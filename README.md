@@ -1,2 +1,2 @@
-# Doha_app
+# doha_app
 education model
